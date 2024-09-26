@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835826306449",
+    "firebase_url": "https://gvi-technology-project-default-rtdb.firebaseio.com",
+    "project_id": "gvi-technology-project",
+    "storage_bucket": "gvi-technology-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835826306449:android:e184bcf0eb7a6949dc1e30",
+        "android_client_info": {
+          "package_name": "com.das_develop.gvi_technology_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISxZi4wpNpu57cCYvEsoKzQxOZ2TeNd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

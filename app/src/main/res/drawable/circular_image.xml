@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+
+    <!-- The actual image to be shown inside the circular shape -->
+    <item>
+        <bitmap
+            android:src="@drawable/movie_logo"
+            android:gravity="center" />
+    </item>
+
+</layer-list>
